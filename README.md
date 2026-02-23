@@ -12,8 +12,8 @@ Este projeto prático foca em analisar a representatividade financeira dos servi
 ## 📈 Visualização de Dados
 Abaixo, o Gráfico de Pareto demonstra visualmente como uma pequena parcela de serviços complexos sustenta a maior parte da receita:
 
-(Faça o upload da imagem grafico_pareto.png no GitHub para ela aparecer aqui)
-![Gráfico de Pareto](./grafico_pareto.png)
+
+![Gráfico de Pareto](C:\Users\User\Desktop\Analise_REFRIAUTO)
 
 ## 💡 Conclusão Estratégica
 A análise de dados traduzida por este gráfico comprova que o volume de trabalho não é sinônimo de lucratividade. Estratégias de gestão, alocação de tempo da equipe técnica e campanhas de marketing devem ser direcionadas aos serviços da Curva A (ex: Retífica e Injeção Eletrônica), garantindo a saúde financeira e a sustentabilidade da operação.
